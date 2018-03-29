@@ -47,5 +47,19 @@
   
   
     
+    <entry>
+      <title>timeline</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>gallery</title>
+      <link href="/gallery/index.html"/>
+      <url>/gallery/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
   
 </search>
