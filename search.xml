@@ -48,9 +48,9 @@
   
     
     <entry>
-      <title>links</title>
-      <link href="/links/index.html"/>
-      <url>/links/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
@@ -62,9 +62,9 @@
     </entry>
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>links</title>
+      <link href="/links/index.html"/>
+      <url>/links/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
